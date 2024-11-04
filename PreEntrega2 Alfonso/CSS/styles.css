@@ -1,0 +1,9 @@
+.header{
+    background-color: #4379F2;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bg-light py-3{
+    background-color: #4379F2;
+}
